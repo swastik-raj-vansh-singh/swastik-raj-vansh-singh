@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>Hi there! I’m a curious mind, currently exploring the vast universe of code, data, and a little bit of everything in between. I build things that (usually) work, break them (accidentally), and then fix them better than before. Right now, I’m in full-on learning mode — absorbing knowledge, solving problems, and sometimes just staring at bugs until they blink first.
+Hi there! I’m a curious mind, currently exploring the vast universe of code, data, and a little bit of everything in between. I build things that (usually) work, break them (accidentally), and then fix them better than before. Right now, I’m in full-on learning mode — absorbing knowledge, solving problems, and sometimes just staring at bugs until they blink first.
 
 <br>⚡ Fun fact<br>🏋️‍♂️ I lift code by day and weights by night.<br>⚽ National-level footballer… so yes, I can chase down both goals and deadlines.<br>💡 Still figuring things out… but when I do, it usually ends in a Git commit.
 
